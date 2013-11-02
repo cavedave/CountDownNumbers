@@ -1,0 +1,20 @@
+This is a bot to play the Countdown Numbers game.
+http://en.wikipedia.org/wiki/Countdown_(game_show)#Numbers_round
+
+One number is chosen from 25,50,75,100
+and 5 from 1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10
+The bot also creates a random number between 100 and 999
+You then use + - * and / to to try reach this number
+
+Send the bot a message and it will reply with the numbers you can use and the target number.
+
+Target: 812 Selection: 75 10 2 3 8 7
+
+Reply to this message with your calculation that gets closest to this target.
+((75+7) * 10) - 8
+
+
+You get
+10 points are given for an exact answer
+7 points for a non-exact solution up to 5 from the target
+5 points for a solution between 6 and 10 from the target.
